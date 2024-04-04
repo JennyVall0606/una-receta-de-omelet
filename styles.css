@@ -60,3 +60,11 @@ h3{
 hr{
     width: 900px;
 }
+.intro{
+    padding: 5px 40px 10px 5px;
+}
+.NLI{
+    list-style: decimal;
+    padding: 5px;  
+}
+
