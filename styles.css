@@ -31,7 +31,7 @@ h1{
     font-family: "DM Serif Display";
     margin-left: 50px;
 }
-div{
+.rosa{
     max-width: 90%;
     margin: 0 auto;
     padding: 5px 15px;
@@ -39,11 +39,24 @@ div{
     background-color: #fff7fc;
     text-align: left;
     font-family: "DM Sans"
-
 }
 h2{
     color:#6b193b;
     font-family: 'Times New Roman', Times, serif;
     text-align: left;
-
+}
+div{
+    text-align: left;
+    font-family: "DM Sans";
+    margin-left: 50px;
+    overflow: auto;
+}
+h3{
+    text-align: left;
+    color: #824431;
+    font-family: "DM Serif Display";
+    margin-left: 50px;
+}
+hr{
+    width: 900px;
 }
