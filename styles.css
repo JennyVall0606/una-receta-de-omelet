@@ -13,22 +13,37 @@ main{
     text-align: center;
 }
 img{
-    margin: 20px 0px;
-    width: 970px;
+    margin: 40px 0px;
+    width: 930px;
     height: 300px;
     border-radius: 30px;
 }
-div{
+p{
     margin: 20px 0px;
     text-align: left; 
     font-family: "DM Sans";
     margin-left: 50px;
-    overflow: auto;
-    
+    overflow: auto; 
 }   
 h1{
     text-align: left;
     color: #824431;
     font-family: "DM Serif Display";
     margin-left: 50px;
+}
+div{
+    max-width: 90%;
+    margin: 0 auto;
+    padding: 5px 15px;
+    border-radius: 10px;
+    background-color: #fff7fc;
+    text-align: left;
+    font-family: "DM Sans"
+
+}
+h2{
+    color:#6b193b;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+
 }
