@@ -67,4 +67,15 @@ hr{
     list-style: decimal;
     padding: 5px;  
 }
+table{
+    width: 900px;
+    border: 5% ;
+    border-collapse: collapse;
+    margin: 0px 0px 20px 0px;
+} 
+td{
+    border: 1px solid rgb(102, 104, 102);
+    text-align: center;
 
+}
+    
